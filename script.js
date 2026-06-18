@@ -1,3 +1,4 @@
+
 // Função de animação do contador
 function animarContador(id, valorFinal, duracao) {
     let elemento = document.getElementById(id);
